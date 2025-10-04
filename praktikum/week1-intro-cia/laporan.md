@@ -6,7 +6,7 @@
    
    Walaupun tradisi ini telah berlangsung selama ribuan tahun, pemanfaatan kriptografi dan area yang lebih luas dari kriptanalisis tetap dianggap cukup baru, dan baru saja mengalami kemajuan yang signifikan dalam satu abad terakhir. Seiring dengan penemuan komputasi modern di abad ke-19, permulaan era digital juga menandakan kelahiran kriptografi modern. Sebagai alat yang krusial untuk membangun kepercayaan digital, para matematikawan, ahli komputer, dan kriptografer mulai menciptakan metode kriptografi modern serta kriptosistem untuk melindungi data penting pengguna dari peretas, penjahat siber, dan pengintai.
    
- ** Kriptografi Kuno / klasik**
+ **Kriptografi Kuno / klasik**
   100-44 SM: Untuk berbagi komunikasi yang aman di dalam tentara Romawi, Julius Caesar dihargai untuk penggunaan yang kemudian disebut Caesar Cipher, sebuah sandi substitusi di mana setiap huruf dari plaintext digantikan oleh huruf yang berbeda yang ditentukan dengan memindahkan sejumlah huruf maju atau mundur dalam alfabet Latin. Dalam kriptosistem kunci simetris ini, langkah dan arah spesifik transposisi huruf adalah kunci pribadi.
   
   **Vigenère Cipher**
@@ -44,9 +44,10 @@ Jawab pertanyaan berikut di laporan:
    Claude shannon (1916–2001)
 2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.
   * RSA (Rivest–Shamir–Adleman) – paling banyak digunakan untuk enkripsi dan tanda tangan digital.
-  *ECC (Elliptic Curve Cryptography) – lebih efisien dengan kunci lebih kecil.
-  *Diffie-Hellman – digunakan untuk pertukaran kunci secara aman.
-  *ElGamal – digunakan dalam sistem enkripsi dan tanda tangan digital.
+  * *ECC (Elliptic Curve Cryptography) – lebih efisien dengan kunci lebih kecil.
+  * *Diffie-Hellman – digunakan untuk pertukaran kunci secara aman.
+  * *ElGamal – digunakan dalam sistem enkripsi dan tanda tangan digital.
+    
 3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?
    Kriptografi klasik:
 *Menggunakan teknik sederhana seperti substitusi dan transposisi.
