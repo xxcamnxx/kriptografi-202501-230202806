@@ -1,3 +1,8 @@
+Minggu ke-: 1
+Topik: Intro CIA
+Nama: Exca Mutiara Nabilla
+NIM: 230202806
+Kelas: 5IKRA
 # Sejarah Kriptografi & Prinsip CIA
 
   kata Kriptografi berasal dar yunani yang berarti "tulisan rahasia" dimana ini merupakan teknik untuk mengenkripsi data yang dikirim supaya hanya dapat dimengerti oleh penerima yang dimaskud.
