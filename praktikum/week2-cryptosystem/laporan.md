@@ -38,14 +38,14 @@ Hasil eksekusi program:
 1. Kriptografi kunci simetris
 Juga dikenal sebagai kriptografi kunci privat, kriptografi kunci rahasia, atau enkripsi kunci tunggal, enkripsi kunci simetris hanya menggunakan satu kunci untuk proses enkripsi dan dekripsi. Untuk jenis sistem ini, setiap pengguna harus memiliki akses ke kunci pribadi yang sama. Kunci pribadi dapat dibagikan melalui saluran komunikasi aman yang telah dibuat sebelumnya seperti kurir pribadi atau jalur aman atau, lebih praktisnya, metode pertukaran kunci yang aman seperti perjanjian kunci Diffie-Hellman.  
 contoh :
-1. Standar Enkripsi Data: Standar Enkripsi Data (DES) dikembangkan oleh IBM pada awal tahun 1970-an, dan meskipun sekarang dianggap rentan terhadap serangan brute force, arsitekturnya tetap sangat berpengaruh di bidang kriptografi modern.
-2. Standar Enkripsi Lanjutan: Standar Enkripsi Lanjutan (AES) adalah sandi pertama dan satu-satunya yang dapat diakses publik dan disetujui oleh Badan Keamanan Nasional AS untuk informasi rahasia.
+   a. Standar Enkripsi Data: Standar Enkripsi Data (DES) dikembangkan oleh IBM pada awal tahun 1970-an, dan meskipun sekarang dianggap rentan terhadap serangan brute force, arsitekturnya tetap sangat berpengaruh di bidang kriptografi modern.
+   b. Standar Enkripsi Lanjutan: Standar Enkripsi Lanjutan (AES) adalah sandi pertama dan satu-satunya yang dapat diakses publik dan disetujui oleh Badan Keamanan Nasional AS untuk informasi rahasia.
 
 2. Kriptografi kunci asimetris
 Dalam enkripsi asimetris, sepasang kunci digunakan: satu kunci rahasia dan satu kunci publik. Untuk alasan ini, algoritma ini juga disebut sebagai algoritma kunci publik. Kriptografi kunci publik dianggap lebih aman daripada teknik enkripsi simetris karena meskipun satu kunci tersedia untuk umum, pesan yang dienkripsi hanya dapat didekripsi dengan kunci pribadi penerima yang dituju.
 contoh :
-1. RSA: Dinamakan sesuai dengan nama pendirinya—Rivest, Shamier, dan Adleman—pada tahun 1977, algoritma RSA merupakan salah satu sistem kriptografi kunci publik tertua yang digunakan secara luas dan digunakan untuk transmisi data yang aman.
-2. ECC: Kriptografi kurva elips adalah bentuk enkripsi asimetris tingkat lanjut yang menggunakan struktur aljabar kurva elips untuk membuat kunci kriptografi yang kuat. 
+   a.  RSA: Dinamakan sesuai dengan nama pendirinya—Rivest, Shamier, dan Adleman—pada tahun 1977, algoritma RSA merupakan salah satu sistem kriptografi kunci publik tertua yang digunakan secara luas dan digunakan untuk transmisi data yang aman.
+   b. ECC: Kriptografi kurva elips adalah bentuk enkripsi asimetris tingkat lanjut yang menggunakan struktur aljabar kurva elips untuk membuat kunci kriptografi yang kuat. 
 
 ---
 
