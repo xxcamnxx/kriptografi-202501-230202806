@@ -1,9 +1,9 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [Crypto system]  
-Nama: [Exca Mutiara Nabilla]  
-NIM: [230202806]  
-Kelas: [5 IKRA]  
+Minggu ke-: 2 
+Topik: Crypto system  
+Nama: Exca Mutiara Nabilla  
+NIM: 230202806  
+Kelas: 5 IKRA  
 
 ---
 
