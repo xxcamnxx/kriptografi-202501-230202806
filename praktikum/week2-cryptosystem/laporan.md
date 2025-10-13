@@ -20,7 +20,8 @@ Kriptosistem adalah sebuah sistem kriptografi yang terdiri dari serangkaian algo
 ---
 
 ## 3. Source Code
-src/simple_crypto.py
+![Kode](src/simple_crypto.py)
+
 
 ---
 
@@ -30,7 +31,7 @@ src/simple_crypto.py
 
 Hasil eksekusi program:
 
-![Diagram Kriptosistem](screenshots/hasil_eksekusi.png)
+![Hasil Eksekusi](screenshots/hasil_eksekusi.png)
 
 ---
 
