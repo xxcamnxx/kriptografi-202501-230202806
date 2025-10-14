@@ -26,7 +26,7 @@ Kriptosistem adalah sebuah sistem kriptografi yang terdiri dari serangkaian algo
 ---
 
 ## 4. Hasil dan Pembahasan
-![Diagram Kriptosistem](screenshots/diagram_kriptosistemm.png.jpg)
+![Diagram Kriptosistem](screenshots/diagram_kriptosistemm.png)
 
 
 Hasil eksekusi program:
