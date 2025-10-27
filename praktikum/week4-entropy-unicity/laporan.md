@@ -53,7 +53,6 @@ H(K) = entropi kunci (jumlah informasi dalam kunci)
 | AES-128   | 128           | 128           | Sangat aman                       | Tinggi                       |
 | AES-256   | 256           | 256           | Sangat aman                       | Sangat tinggi                |
 
-
 ---
 
 ## 3. Source Code
