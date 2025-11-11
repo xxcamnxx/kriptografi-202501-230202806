@@ -98,9 +98,9 @@ Hasil eksekusi program:
 
 Secara keseluruhan, hasil uji menunjukkan setiap algoritma bekerja sesuai prinsipnya, dengan AES dan RSA lebih direkomendasikan untuk keamanan data modern dibanding DES.
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil Eksekusi](screenshots/hasil_aes.png)
+![Hasil Input](screenshots/hasil_rsa.png)
+![Hasil Output](screenshots/hasil_des.png)
 )
 
 ---
