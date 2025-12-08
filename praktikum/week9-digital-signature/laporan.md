@@ -105,5 +105,5 @@ commit week9-digital-signature
 Author: exca <excaamn@gmail.com>
 Date:   2025-12-09
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week9-digital-signature Digital Signature (RSA/DSA)
 ```
