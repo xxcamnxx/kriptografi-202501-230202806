@@ -72,9 +72,7 @@ except (ValueError, TypeError):
 
 Hasil eksekusi program Digital Signature (RSA/DSA):
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+![Hasil](screenshots/hasil.png)
 )
 
 ---
