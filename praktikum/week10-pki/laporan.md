@@ -76,10 +76,7 @@ print("Sertifikat digital berhasil dibuat: cert.pem")
 ## 5. Hasil dan Pembahasan
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
-)
+![Hasil Eksekusi](screenshots/hasil.png)
 
 ---
 ## 6. Analisis 
