@@ -18,6 +18,7 @@ Memberikan rekomendasi algoritma kriptografi yang sesuai untuk perbaikan keamana
 Kriptografi merupakan teknik untuk melindungi informasi agar hanya pihak yang berwenang yang dapat mengaksesnya. Dalam sistem informasi modern, kriptografi digunakan untuk menjaga kerahasiaan, integritas, dan autentikasi data melalui algoritma seperti fungsi hash, kriptografi kunci simetris dan asimetris. Keamanan sistem tidak hanya bergantung pada kekuatan algoritma, tetapi juga pada cara algoritma tersebut diimplementasikan dan dikonfigurasikan.
 
 Berbagai serangan kriptografi, seperti brute force, Man-in-the-Middle (MITM), dan replay attack, umumnya terjadi akibat penggunaan algoritma yang sudah usang atau konfigurasi keamanan yang lemah. Contohnya, penggunaan MD5 atau SHA-1 untuk penyimpanan password rentan terhadap serangan karena algoritma tersebut cepat dan tidak dirancang untuk hashing password. Demikian pula, penggunaan protokol TLS versi lama membuka peluang penyadapan komunikasi.
+
 ---
 
 ## 3. Alat dan Bahan
@@ -29,15 +30,6 @@ Berbagai serangan kriptografi, seperti brute force, Man-in-the-Middle (MITM), da
 ---
 
 ## 4. Source Code
-(Salin kode program utama yang dibuat atau dimodifikasi.  
-Gunakan blok kode:
-
-```python
-# contoh potongan kode
-def encrypt(text, key):
-    return ...
-```
-)
 
 ---
 
